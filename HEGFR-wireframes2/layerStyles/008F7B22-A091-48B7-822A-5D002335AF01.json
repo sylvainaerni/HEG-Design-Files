@@ -1,0 +1,28 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "008F7B22-A091-48B7-822A-5D002335AF01",
+  "name": "Palette/UI/Border/Hover",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.4,
+          "blue": 0.4,
+          "green": 0.3607843137254902,
+          "red": 0.3764705882352941
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "008F7B22-A091-48B7-822A-5D002335AF01",
+    "startDecorationType": 0
+  }
+}

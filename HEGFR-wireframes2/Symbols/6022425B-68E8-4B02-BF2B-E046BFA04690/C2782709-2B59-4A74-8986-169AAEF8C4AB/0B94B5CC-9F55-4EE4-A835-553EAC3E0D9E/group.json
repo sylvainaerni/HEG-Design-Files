@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "0B94B5CC-9F55-4EE4-A835-553EAC3E0D9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 214,
+    "width": 840,
+    "x": 0,
+    "y": 69
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D8D28360-4C5B-495F-8C86-3025E03A3D70"
+    },
+    {
+      "class": "text",
+      "id": "7B7906F6-991D-4B21-BBBF-5B64772B0ADF"
+    },
+    {
+      "class": "group",
+      "id": "984F04FE-9C61-4550-8B53-40362B6C79BF"
+    },
+    {
+      "class": "group",
+      "id": "F96F1093-3C03-49CA-9365-06FB70FAA4FD"
+    }
+  ],
+  "name": "comment_post",
+  "nameIsFixed": false,
+  "originalObjectID": "0B94B5CC-9F55-4EE4-A835-553EAC3E0D9E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
