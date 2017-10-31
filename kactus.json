@@ -1,4 +1,7 @@
 {
   "shareTextStyles": true,
-  "shareLayerStyles": true
+  "shareLayerStyles": true,
+  "sharedPages": [
+    "_HEG-FONTS"
+  ]
 }
