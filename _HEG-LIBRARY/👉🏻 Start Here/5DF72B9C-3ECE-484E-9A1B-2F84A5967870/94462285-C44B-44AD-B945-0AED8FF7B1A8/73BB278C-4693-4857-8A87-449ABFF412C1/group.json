@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "73BB278C-4693-4857-8A87-449ABFF412C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 670,
+    "width": 542,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A4072C3F-B594-4929-B022-9C3338E37E81"
+    },
+    {
+      "class": "group",
+      "id": "FEF7B565-3F5D-4223-B3ED-A3D06AA0EBB9"
+    },
+    {
+      "class": "text",
+      "id": "841890A0-9575-4C4F-B235-37A8356B8907"
+    },
+    {
+      "class": "text",
+      "id": "EFD53A2D-7B24-4CBB-A31C-3CFE49B8775D"
+    }
+  ],
+  "name": "Scrim",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

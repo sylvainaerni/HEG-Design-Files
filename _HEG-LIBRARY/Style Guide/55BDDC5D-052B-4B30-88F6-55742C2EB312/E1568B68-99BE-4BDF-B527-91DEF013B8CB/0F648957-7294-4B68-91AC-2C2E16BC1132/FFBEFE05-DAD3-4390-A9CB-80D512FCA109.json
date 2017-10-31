@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FFBEFE05-DAD3-4390-A9CB-80D512FCA109",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 40,
+    "width": 40,
+    "x": 72,
+    "y": 84
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button/Icon - Rounded",
+  "nameIsFixed": false,
+  "overrides": {
+    "503F1914-1E50-4D85-A375-33049FEB6D2A": "SMALL",
+    "5E5AA3FB-624D-45CA-864F-89CE8A17FD26": {
+      "symbolID": ""
+    },
+    "9CF14B94-F275-4A03-966F-21CD8E1007BA": {
+      "3356B8DB-8CCB-4231-A091-0DFFBF678852": {
+        "symbolID": "D25AB969-C46E-44B7-A81F-B931386EB467"
+      }
+    },
+    "DA36A2BF-6E12-4CD7-BE9A-B65341B54A70": {
+      "023F30FA-A5B6-4104-8767-02072172E5DC": {
+        "symbolID": ""
+      },
+      "74B9A01B-210A-4B6F-8046-8A9182ACA1BB": {
+        "symbolID": ""
+      },
+      "7E449EE0-9AA2-44E9-9572-6826CDF5F3BF": {
+        "symbolID": "3F4F2EB4-BA51-4F81-BBAD-F2B0F8A0D1BB"
+      },
+      "7F914C73-C365-4E0F-AAE1-57F7B14E71E9": {
+        "symbolID": "E17DA52F-DE18-4516-8BCD-6E054A57E8D0"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2C1F8E6D-5947-40CB-BA41-1B0AD65C7760",
+  "verticalSpacing": 0
+}

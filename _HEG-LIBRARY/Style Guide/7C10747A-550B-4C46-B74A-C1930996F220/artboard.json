@@ -1,0 +1,181 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9725490196078431,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "do_objectID": "7C10747A-550B-4C46-B74A-C1930996F220",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1440,
+    "x": 950,
+    "y": -362
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "184A31CA-7C18-4D2E-B4E9-CD7F08AF45B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "842C8194-50A8-490E-B33F-83E302FC14F2"
+    },
+    {
+      "class": "text",
+      "id": "751EC7FC-9AC8-4922-BF5B-356C4B798DBC"
+    },
+    {
+      "class": "text",
+      "id": "F957137F-31C9-4D20-B49A-9A45250660D5"
+    },
+    {
+      "class": "text",
+      "id": "F0495789-D648-4CBE-ABD6-883450896139"
+    },
+    {
+      "class": "text",
+      "id": "D297BD26-7B34-40EA-94B0-DE3D562AE075"
+    },
+    {
+      "class": "text",
+      "id": "D8229497-B794-4762-B0DD-C82797FA8C40"
+    },
+    {
+      "class": "text",
+      "id": "21E46A29-A965-4FD1-AFF7-E8006903B327"
+    },
+    {
+      "class": "text",
+      "id": "9186C370-E27A-4821-9192-D1F80DFB5C2E"
+    },
+    {
+      "class": "text",
+      "id": "4CF92D29-7703-48D2-83F0-CAE04C591A44"
+    },
+    {
+      "class": "text",
+      "id": "60BDBBF9-4B3C-422D-97CE-2FB9BB9D7D40"
+    },
+    {
+      "class": "text",
+      "id": "53ED99FB-179B-4C9F-ACCB-D0FB6CD27411"
+    },
+    {
+      "class": "text",
+      "id": "2E130BF1-9F1B-4A1E-8EAB-9860D2A896A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6AF27E3-5DAB-4357-ACC2-14F5E1F72D7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9D02B7A-B6C0-4BAD-B008-F441C0E58262"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 72,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 156,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1128
+  },
+  "name": "01 - Light",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

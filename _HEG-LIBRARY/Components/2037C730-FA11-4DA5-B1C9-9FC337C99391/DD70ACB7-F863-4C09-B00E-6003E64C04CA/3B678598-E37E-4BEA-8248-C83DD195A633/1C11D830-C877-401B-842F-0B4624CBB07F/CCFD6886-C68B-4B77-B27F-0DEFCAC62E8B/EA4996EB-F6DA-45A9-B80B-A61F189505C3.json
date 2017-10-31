@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EA4996EB-F6DA-45A9-B80B-A61F189505C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 111,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button/Small - Left Icon",
+  "nameIsFixed": false,
+  "overrides": {
+    "01B3CF84-B693-4124-83E1-6FBF1F20D8FD": {
+      "D09C9977-ABAB-4D19-8A5B-ACD06AF81387": "Default"
+    },
+    "3F4F566B-47CE-4BB3-A313-533F567A1B0E": {
+      "023F30FA-A5B6-4104-8767-02072172E5DC": {
+        "symbolID": ""
+      },
+      "7E449EE0-9AA2-44E9-9572-6826CDF5F3BF": {
+        "symbolID": "E17DA52F-DE18-4516-8BCD-6E054A57E8D0"
+      }
+    },
+    "49B80546-147A-428C-ADE6-10EE6B9AE8BF": {
+      "A7EF57F1-C3BB-4BFE-8BDD-0892BC6DAC10": {
+        "symbolID": "D25AB969-C46E-44B7-A81F-B931386EB467"
+      },
+      "symbolID": "50DB6917-6338-49BD-8071-357C6D3D859B"
+    },
+    "7A4327C9-0AE4-4EE3-8F6A-357CAB58BF7F": {
+      "symbolID": ""
+    },
+    "8193CF62-8CA5-42D1-8479-D0416C83B6A1": {
+      "symbolID": ""
+    },
+    "AAB725EC-9A80-4B2A-821B-3EFD56B6C259": "SMALL"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2093434F-5CD8-4E22-AF6B-7832EEC864C8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

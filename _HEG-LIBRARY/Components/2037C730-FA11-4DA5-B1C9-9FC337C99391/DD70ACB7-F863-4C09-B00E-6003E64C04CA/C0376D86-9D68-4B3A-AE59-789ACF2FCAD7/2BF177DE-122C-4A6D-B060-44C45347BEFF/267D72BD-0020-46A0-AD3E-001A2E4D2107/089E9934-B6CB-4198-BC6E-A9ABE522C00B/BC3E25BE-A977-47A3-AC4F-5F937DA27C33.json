@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BC3E25BE-A977-47A3-AC4F-5F937DA27C33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 180,
+    "x": 0,
+    "y": 61
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Field",
+  "nameIsFixed": false,
+  "overrides": {
+    "1C391A1F-1301-42C8-8002-6992DBEFE3C3": {
+      "symbolID": ""
+    },
+    "25E93E22-C682-45BB-8381-48618485EA48": {
+      "symbolID": ""
+    },
+    "4FA301A7-0FA2-42F8-8DEC-038119FFDF1A": {
+      "3051BB52-DB62-4AA8-8ED2-3D8CC3E032C3": {
+        "symbolID": "40E7A6B6-B0E9-443A-8FBE-0C686169490C"
+      },
+      "592C86F2-674E-40B8-9278-EDFDDEBBD995": {
+        "symbolID": "31F452CB-1F07-4CBD-8DD7-692B708568E1"
+      },
+      "symbolID": "BF15C60B-8AA9-457C-9C60-B444B4F310B0"
+    },
+    "B540B18C-BC20-4A0C-AF74-49CF9D69A6FE": {
+      "symbolID": ""
+    },
+    "BCE258B0-4211-4EB0-89B9-028A7D7C36AC": {
+      "4285288C-A406-439D-90AB-A1EA5C143337": "Hover",
+      "symbolID": "3919FAC1-FA83-49B2-BAF9-A66553A562DC"
+    },
+    "FE0D66F1-9C4F-44E6-B783-D548CD1342B9": {
+      "symbolID": "6D1A75DD-6988-4396-AC1E-AF5386C38B6F"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F05F366C-54EB-4F4B-9612-4786131680A6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

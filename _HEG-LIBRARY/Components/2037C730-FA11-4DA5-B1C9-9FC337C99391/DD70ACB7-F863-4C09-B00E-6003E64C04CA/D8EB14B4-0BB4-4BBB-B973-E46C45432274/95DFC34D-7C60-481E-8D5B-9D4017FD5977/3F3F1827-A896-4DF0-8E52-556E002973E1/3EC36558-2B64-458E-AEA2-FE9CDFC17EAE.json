@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3EC36558-2B64-458E-AEA2-FE9CDFC17EAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 272,
+    "x": 0,
+    "y": 136
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Menu/Item",
+  "nameIsFixed": false,
+  "overrides": {
+    "11D7D67D-7408-4A53-811D-34B57D8AAFDB": {
+      "symbolID": "14463C30-912E-4EF9-99E6-F703C0AB138C"
+    },
+    "662A92F4-9152-4705-ADAF-A3169C269B8C": {
+      "7D8D7A94-DE42-43D6-B6DF-0E3AC07989B5": {
+        "symbolID": "14463C30-912E-4EF9-99E6-F703C0AB138C"
+      }
+    },
+    "AC73127F-9F31-40A9-984C-43EE030E4559": {
+      "B7C796AE-2807-45BB-B824-791E38FC491F": "Arizona"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "731F84EB-195A-4EA4-A550-E088CB706549",
+  "verticalSpacing": 0
+}

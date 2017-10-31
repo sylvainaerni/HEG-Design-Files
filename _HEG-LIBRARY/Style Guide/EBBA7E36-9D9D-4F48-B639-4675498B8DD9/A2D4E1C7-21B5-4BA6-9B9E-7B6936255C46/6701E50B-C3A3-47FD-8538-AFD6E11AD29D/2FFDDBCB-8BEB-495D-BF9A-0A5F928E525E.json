@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2FFDDBCB-8BEB-495D-BF9A-0A5F928E525E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 232,
+    "x": 0,
+    "y": 100
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Checkbox",
+  "nameIsFixed": false,
+  "overrides": {
+    "2D6A2489-7199-4FED-8C46-D96CBF646BB9": {
+      "2F5FB599-16D1-4804-9025-B9858374819C": "Adobe XD"
+    },
+    "31D7DDC8-3B49-4DC2-8196-87E024F6998F": {
+      "0B4A2474-E8A3-4649-98CE-235EB7629D82": "Adobe XD",
+      "B7C796AE-2807-45BB-B824-791E38FC491F": "Adobe XD",
+      "symbolID": "2E42BD2B-0163-4852-A64A-9EDF69CEDC90"
+    },
+    "739D3795-A29D-40F8-BFDB-5A89417074EC": "Visual Designer",
+    "FA1E47DE-08C6-4D9E-8AA7-DAAB9A026363": {
+      "1DA24789-F460-40E1-B8B1-65DC1307FC45": {
+        "symbolID": "14463C30-912E-4EF9-99E6-F703C0AB138C"
+      },
+      "41AAAC11-4E1D-4F0C-946A-1D5E5D356DDD": {
+        "symbolID": ""
+      },
+      "6DC01FF8-ACB1-403E-BC12-A61AB23CE728": {
+        "symbolID": ""
+      },
+      "ECD7232E-5185-47DB-B764-D8BDBA9C5857": {
+        "symbolID": "EAB8E437-388E-4090-A53F-42FFB3A4DE58"
+      },
+      "symbolID": "9F06FEA1-2BD8-4E05-A137-F437F7DCE667"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "96925899-1967-4EFD-9B18-4EDB3EEE1200",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

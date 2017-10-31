@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "BE58229B-E529-45F8-A7EB-8A72A4D5523F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 432,
+    "width": 484,
+    "x": 117,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D76347DE-0F67-479F-96ED-60D667860CF9"
+    },
+    {
+      "class": "text",
+      "id": "14AD82E9-5CFC-4568-B7FE-36CFD1974AB7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85900E22-29A8-4556-966D-823A3B2FCF35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5E9D34C-A848-446E-BCEE-A03E62CB6B2D"
+    },
+    {
+      "class": "group",
+      "id": "E82192AA-1AD6-4089-9FE7-E2B252F1E738"
+    }
+  ],
+  "name": "Stacked Group 3 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

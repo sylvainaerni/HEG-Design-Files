@@ -1,0 +1,34 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "9F273E4E-9A67-4FBD-873C-96471737951C",
+  "name": "Palette/UI/Border Left - Thick/Accent 1",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6549019607843137,
+          "green": 0.8274509803921568,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 3,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "9F273E4E-9A67-4FBD-873C-96471737951C",
+    "startDecorationType": 0
+  }
+}

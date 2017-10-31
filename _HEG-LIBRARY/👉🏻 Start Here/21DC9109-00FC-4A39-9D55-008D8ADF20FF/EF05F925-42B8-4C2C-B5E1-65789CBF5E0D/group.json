@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "EF05F925-42B8-4C2C-B5E1-65789CBF5E0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 274,
+    "x": 1224,
+    "y": 116
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "800F2A75-F167-4039-90BF-A92F3BF63439"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BF74FD7F-7F56-4512-84ED-9D69595609BE"
+    },
+    {
+      "class": "text",
+      "id": "47040653-FD7C-43AF-A6DE-C1D0CA90D646"
+    }
+  ],
+  "name": "Color Drop for Black",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

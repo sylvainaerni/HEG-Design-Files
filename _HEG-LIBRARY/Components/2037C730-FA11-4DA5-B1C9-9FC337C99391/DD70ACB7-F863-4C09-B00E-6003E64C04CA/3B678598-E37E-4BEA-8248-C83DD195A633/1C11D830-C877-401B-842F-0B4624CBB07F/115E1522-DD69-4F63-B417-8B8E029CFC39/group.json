@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "115E1522-DD69-4F63-B417-8B8E029CFC39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41,
+    "width": 544,
+    "x": 0,
+    "y": 226
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D9703568-7397-4F32-9833-D3544543E1A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9EB43BF6-ED81-42A5-B27E-C284EFF5FED3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "161BD246-C8F4-4A20-86A6-9CB2E979F788"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6D4F5DD-35CC-4309-92B7-CA0E6936A68B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7EEA9C3-AD96-4C37-96F5-5AA458EA77AD"
+    }
+  ],
+  "name": "Medium - Left Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "spacing": 16,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

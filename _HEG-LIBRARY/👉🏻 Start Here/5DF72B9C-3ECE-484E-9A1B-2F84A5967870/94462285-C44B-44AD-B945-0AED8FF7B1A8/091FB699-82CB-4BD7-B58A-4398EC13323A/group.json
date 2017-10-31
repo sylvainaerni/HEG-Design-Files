@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "091FB699-82CB-4BD7-B58A-4398EC13323A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 670,
+    "width": 542,
+    "x": 566,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7F80D980-0086-4E84-9690-133D686F8370"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E61AA286-D754-496D-8732-F58EFB961F71"
+    },
+    {
+      "class": "group",
+      "id": "4611AFB3-7B15-4ECD-8BAE-33A72C61EDCA"
+    },
+    {
+      "class": "text",
+      "id": "10D7385B-29F0-4655-8806-D622A1C792A6"
+    }
+  ],
+  "name": "Gradient Scrim",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

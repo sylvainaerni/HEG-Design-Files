@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "50A3A0BB-1CD3-431A-B7D3-6F6761ABB9DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 131,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button/Small - Right Icon",
+  "nameIsFixed": false,
+  "overrides": {
+    "50219D5F-3BFD-4608-B91D-627639DBEB91": {
+      "symbolID": ""
+    },
+    "6E370F81-F513-4575-A4A8-B867F0347B3E": {
+      "D09C9977-ABAB-4D19-8A5B-ACD06AF81387": "Multi-Level"
+    },
+    "CDF43B80-2A9C-44AE-8AD5-3E99062CEC8E": {
+      "023F30FA-A5B6-4104-8767-02072172E5DC": {
+        "symbolID": "6285526C-1511-4EBE-A3BF-9493BB7FEEC6"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8A9C89A0-7E76-46D6-99E9-4CD54E749BCA",
+  "verticalSpacing": 0
+}

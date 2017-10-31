@@ -1,0 +1,34 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "6F5C8490-9BA9-4552-A9D0-52CDE8C1E10A",
+  "name": "Palette/UI/Border Left/Accent 2",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.7529411764705882,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 1,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "6F5C8490-9BA9-4552-A9D0-52CDE8C1E10A",
+    "startDecorationType": 0
+  }
+}

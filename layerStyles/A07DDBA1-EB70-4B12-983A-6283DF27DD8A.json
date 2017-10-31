@@ -1,0 +1,34 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "A07DDBA1-EB70-4B12-983A-6283DF27DD8A",
+  "name": "Palette/UI/Border Bottom - Thick/Accent 2",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.7529411764705882,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -2,
+        "spread": 0
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "A07DDBA1-EB70-4B12-983A-6283DF27DD8A",
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CB477795-F182-420C-B217-7866991ABBC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 264,
+    "x": 0,
+    "y": 96
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Menu/Item",
+  "nameIsFixed": false,
+  "overrides": {
+    "73B58125-2B51-40B0-B839-117D902FB014": {
+      "6DC01FF8-ACB1-403E-BC12-A61AB23CE728": {
+        "symbolID": ""
+      },
+      "symbolID": "9F06FEA1-2BD8-4E05-A137-F437F7DCE667"
+    },
+    "78B6BF8E-B997-4850-8043-B56435A82050": {
+      "symbolID": ""
+    },
+    "A021FCB7-5C47-4FEF-93B6-98C6672A4B94": {
+      "7D8D7A94-DE42-43D6-B6DF-0E3AC07989B5": {
+        "symbolID": "14463C30-912E-4EF9-99E6-F703C0AB138C"
+      },
+      "symbolID": ""
+    },
+    "FAEB3B86-B456-4B5C-87D5-EBAB817FADB1": {
+      "B7C796AE-2807-45BB-B824-791E38FC491F": "Alaska"
+    }
+  },
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9E27DEF5-528A-47D8-B41C-4FF402AA1046",
+  "verticalSpacing": 0
+}

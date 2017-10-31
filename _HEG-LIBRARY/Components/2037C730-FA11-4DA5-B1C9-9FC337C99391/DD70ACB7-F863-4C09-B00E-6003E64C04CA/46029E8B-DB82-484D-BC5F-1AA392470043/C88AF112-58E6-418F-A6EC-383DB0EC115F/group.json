@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "C88AF112-58E6-418F-A6EC-383DB0EC115F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 174,
+    "width": 392,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9B37B8CD-24B1-4FD8-97E1-E6D3F7E15B0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD33512A-6BA8-426F-94E6-3CD19366910B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "696C3F0A-18AC-46CA-A943-00113D951BB5"
+    },
+    {
+      "class": "group",
+      "id": "69CEDEC3-F9F8-44EE-B2C2-79F4B84C2C77"
+    },
+    {
+      "class": "text",
+      "id": "854B607B-A75E-4F71-9F76-14AC76DB9378"
+    }
+  ],
+  "name": "Drop Down Fields",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

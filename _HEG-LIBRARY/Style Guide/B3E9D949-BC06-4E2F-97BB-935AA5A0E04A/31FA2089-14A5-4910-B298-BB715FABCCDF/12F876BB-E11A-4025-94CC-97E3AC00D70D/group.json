@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "12F876BB-E11A-4025-94CC-97E3AC00D70D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 208,
+    "width": 168,
+    "x": 32,
+    "y": 252
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D331717B-2943-483F-B42B-3FA05E859D62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90B5D797-BE7F-429D-88F1-A4CA01E90902"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECB3C4EC-0BA0-4B6E-9A9A-0B36F8AFBAE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5696E02-E2C6-4D21-A39E-8D6E79DB2D87"
+    },
+    {
+      "class": "text",
+      "id": "FE2F11FC-090F-46DB-B13E-643C08996D99"
+    }
+  ],
+  "name": "Progress Donut",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

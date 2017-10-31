@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2E79EC17-16F1-4C2E-8150-6BF609CE94B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 132,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Badge",
+  "nameIsFixed": false,
+  "overrides": {
+    "65678A8A-E809-4D75-A9B9-F86F6BCE7AD1": {
+      "25CE889C-672D-47CE-AB6F-3B1BCE1853BB": "24"
+    },
+    "67594F3F-9F22-4C80-9A9B-080F36E5D981": {
+      "74B9A01B-210A-4B6F-8046-8A9182ACA1BB": {
+        "symbolID": ""
+      },
+      "7F914C73-C365-4E0F-AAE1-57F7B14E71E9": {
+        "symbolID": "3F4F2EB4-BA51-4F81-BBAD-F2B0F8A0D1BB"
+      }
+    },
+    "6BBABDE8-C1A1-4337-AAB0-D4A1FAC1CE6A": {
+      "74B9A01B-210A-4B6F-8046-8A9182ACA1BB": {
+        "symbolID": ""
+      },
+      "7F914C73-C365-4E0F-AAE1-57F7B14E71E9": {
+        "symbolID": "3F4F2EB4-BA51-4F81-BBAD-F2B0F8A0D1BB"
+      }
+    },
+    "F0A9B672-5110-40DB-8021-D257CDF14C24": {
+      "023F30FA-A5B6-4104-8767-02072172E5DC": {
+        "symbolID": ""
+      },
+      "74B9A01B-210A-4B6F-8046-8A9182ACA1BB": {
+        "symbolID": ""
+      },
+      "symbolID": "AF8D72FA-F43F-433D-8614-1BF277CE7B41"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E8FBD775-B039-41D6-8B6B-16E6826A3A39",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "2BF33E38-9980-4EC4-AC6E-976A1635793B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 816,
+    "width": 1680,
+    "x": 0,
+    "y": 2303
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FF329BC8-BDCD-4699-ACF0-F0D9966799B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CEFC553D-9888-4175-9B87-4950B81A5C7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E638B98-62F4-4EE2-B9A9-5023401E6D88"
+    }
+  ],
+  "name": "section thématiques copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "spacing": 0,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

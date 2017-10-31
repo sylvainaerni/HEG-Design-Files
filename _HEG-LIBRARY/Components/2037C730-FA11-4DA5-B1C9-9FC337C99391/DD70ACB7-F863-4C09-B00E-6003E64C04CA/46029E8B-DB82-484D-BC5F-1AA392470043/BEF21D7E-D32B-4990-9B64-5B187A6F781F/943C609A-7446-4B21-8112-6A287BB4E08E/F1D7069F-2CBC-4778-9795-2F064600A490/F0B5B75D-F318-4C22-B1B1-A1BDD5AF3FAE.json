@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F0B5B75D-F318-4C22-B1B1-A1BDD5AF3FAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 145,
+    "x": 0,
+    "y": 96
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Checkbox",
+  "nameIsFixed": false,
+  "overrides": {
+    "2D6A2489-7199-4FED-8C46-D96CBF646BB9": {
+      "2F5FB599-16D1-4804-9025-B9858374819C": "Subform"
+    },
+    "31D7DDC8-3B49-4DC2-8196-87E024F6998F": {
+      "B7C796AE-2807-45BB-B824-791E38FC491F": "Subform"
+    },
+    "739D3795-A29D-40F8-BFDB-5A89417074EC": "Product Strategy",
+    "FA1E47DE-08C6-4D9E-8AA7-DAAB9A026363": {
+      "6DC01FF8-ACB1-403E-BC12-A61AB23CE728": {
+        "symbolID": "6285526C-1511-4EBE-A3BF-9493BB7FEEC6"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "96925899-1967-4EFD-9B18-4EDB3EEE1200",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

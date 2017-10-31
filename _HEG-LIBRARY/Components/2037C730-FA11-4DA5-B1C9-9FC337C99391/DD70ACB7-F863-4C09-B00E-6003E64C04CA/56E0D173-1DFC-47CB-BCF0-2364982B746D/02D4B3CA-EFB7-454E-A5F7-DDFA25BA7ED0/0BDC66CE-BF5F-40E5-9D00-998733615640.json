@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0BDC66CE-BF5F-40E5-9D00-998733615640",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 94,
+    "width": 136,
+    "x": 304,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Field",
+  "nameIsFixed": false,
+  "overrides": {
+    "66ABCE4B-FDE7-4648-BA88-C0D446405137": {
+      "04092167-93EA-4424-87C5-486F360B953F": {
+        "7D8D7A94-DE42-43D6-B6DF-0E3AC07989B5": {
+          "symbolID": "64F575B1-DBA6-4ADB-B023-A54BA733C1A1"
+        },
+        "symbolID": "E473192B-7CC3-4176-B044-AED03358FF64"
+      },
+      "0AA941EF-560F-4E4C-B0AD-045D45EABE7B": {
+        "07CC9679-4720-4F32-908F-7A943EEB8780": "Success!",
+        "ADB2598D-52EC-4040-A708-50B645B490CF": "You did it!",
+        "symbolID": "D9351676-E565-4A61-B328-88269F5570C2"
+      },
+      "5ABCD047-76CE-4A35-ADD5-E2D3FF6B7A85": "Here's a simple message.",
+      "7119F168-5CB7-45CE-8978-A09771820E39": "Success message!",
+      "BACBB520-D5F5-42AF-BE84-DB339514E0C1": "Here's a simple message.",
+      "CE638D6B-5786-4E87-83D4-46AD22A0F1BD": {
+        "07CC9679-4720-4F32-908F-7A943EEB8780": "Successful transaction!"
+      },
+      "F6F68E87-8F0D-4540-B84F-430E946E3228": {
+        "symbolID": "7A02E77F-48B3-43B6-8DE2-84A8004E867B"
+      },
+      "FEB9E8A7-0375-44CC-8DF3-7EFBFC5C82EB": {
+        "76ECCA26-C1DC-4F77-B75C-D81EB69AFD47": {
+          "symbolID": "64F575B1-DBA6-4ADB-B023-A54BA733C1A1"
+        },
+        "7D8D7A94-DE42-43D6-B6DF-0E3AC07989B5": {
+          "symbolID": "64F575B1-DBA6-4ADB-B023-A54BA733C1A1"
+        },
+        "symbolID": "E473192B-7CC3-4176-B044-AED03358FF64"
+      },
+      "symbolID": "41923892-4C83-4C8D-80FA-43505507D0EB"
+    },
+    "AD821A6E-9A42-4A75-ADDC-244F40799684": {
+      "0D1A10F1-F4E1-4E82-8C77-27F8D3426C18": {
+        "symbolID": ""
+      },
+      "25E93E22-C682-45BB-8381-48618485EA48": {
+        "symbolID": ""
+      },
+      "C6D21C87-7C9C-469D-8607-ED7C57607C74": {
+        "4285288C-A406-439D-90AB-A1EA5C143337": "UX Power Tools",
+        "B7C796AE-2807-45BB-B824-791E38FC491F": "john.smith@gmail.com",
+        "symbolID": "345E561D-1230-4E31-AB96-C57CEB91498A"
+      }
+    },
+    "D1D4ED41-78AD-4BBF-8927-C85BA0970D90": {
+      "1ABA8C0D-9FF7-4809-9269-C1B4A4CCA2FB": "Success Message",
+      "symbolID": "755E9C29-5CEE-4758-A573-C6F2BE3DB96D"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "42C52A79-79E1-49F3-B6B7-58B62526B4EE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

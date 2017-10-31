@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "B7C91B7E-42B7-4221-9CA2-53DDFC64AEDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 458,
+    "width": 312,
+    "x": 928,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "459D4EFE-5AB4-44AF-AB6A-361A6F3FA12C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "746ADEE8-AC72-48FD-8C41-59E986FB54FB"
+    },
+    {
+      "class": "text",
+      "id": "88B4E72D-A541-415E-8AF6-E5386A15B4EF"
+    }
+  ],
+  "name": "Calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

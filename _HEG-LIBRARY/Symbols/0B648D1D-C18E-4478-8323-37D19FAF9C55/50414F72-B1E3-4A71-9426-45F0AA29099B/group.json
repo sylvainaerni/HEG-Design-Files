@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "50414F72-B1E3-4A71-9426-45F0AA29099B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 12,
+    "width": 16,
+    "x": 4,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E72E794F-E102-4B70-9D0E-9D7627C8D538"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A9B5B9EF-41EA-4F7B-9DB2-37D226356DFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8EA83960-47C4-431D-B2CE-A8808811BC30"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAA7D804-DFE6-46BE-850C-4F5D534D4EA9"
+    }
+  ],
+  "name": "flags-color-1_india",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_ad56341a-e0be-415a-b4bb-07f8f0eba9d1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 40
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_99aec944-d87d-47ed-bd93-ed94d71c49ca",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

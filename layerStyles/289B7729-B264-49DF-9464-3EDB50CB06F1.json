@@ -1,0 +1,12 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "289B7729-B264-49DF-9464-3EDB50CB06F1",
+  "name": "State/Normal",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "289B7729-B264-49DF-9464-3EDB50CB06F1",
+    "startDecorationType": 0
+  }
+}

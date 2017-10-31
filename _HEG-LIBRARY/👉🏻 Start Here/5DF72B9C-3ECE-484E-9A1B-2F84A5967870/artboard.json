@@ -1,0 +1,157 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9725490196078431,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "do_objectID": "5DF72B9C-3ECE-484E-9A1B-2F84A5967870",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1004,
+    "width": 1722,
+    "x": 1175,
+    "y": 179
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "94462285-C44B-44AD-B945-0AED8FF7B1A8"
+    },
+    {
+      "class": "group",
+      "id": "E29E8979-DFF0-40F0-B3E5-1CA8D61BCE0B"
+    },
+    {
+      "class": "group",
+      "id": "A0DDD538-B2EB-4F70-8366-D05DC73C6D87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BEF3B0CA-3B53-4914-AF1C-99741A184D52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "64D1ED02-851A-4D55-9F98-1CFC4FAEFA4B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27AB8684-8909-4A9A-BE6E-4E631F163343"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43474FFB-E28D-446A-971E-CE7E46E05FC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE649442-3E98-40D6-B0E5-59F0912A540B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "15CED698-01CF-45A6-9B5C-D0D9E513FDA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99268573-AE3D-4905-A8F6-B807C1DF0685"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C417B2D3-EC25-47C8-AC12-3140DE9D0E9E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E6B3518-5733-4307-8EDB-ADA94293FCC4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 73,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 291,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "👉🏻 Adjust Other Stuff Here!",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

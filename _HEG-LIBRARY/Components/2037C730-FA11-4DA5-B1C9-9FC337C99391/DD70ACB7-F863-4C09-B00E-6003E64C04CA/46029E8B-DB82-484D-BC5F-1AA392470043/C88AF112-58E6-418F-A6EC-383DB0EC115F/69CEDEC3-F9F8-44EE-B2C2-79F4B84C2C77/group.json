@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "69CEDEC3-F9F8-44EE-B2C2-79F4B84C2C77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 248,
+    "x": 0,
+    "y": 106
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FA264B6E-98CA-47F2-8BAF-4956B7227858"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "174E33B7-8C11-4665-8128-1EC890B5A8AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7A271C2-81D3-43E0-9B71-DA6F8A4EC962"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4DE9B50-3024-475E-8A41-465F34328571"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34BFD015-B2F2-46EB-A841-D371C1708505"
+    }
+  ],
+  "name": "Multi Select",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
