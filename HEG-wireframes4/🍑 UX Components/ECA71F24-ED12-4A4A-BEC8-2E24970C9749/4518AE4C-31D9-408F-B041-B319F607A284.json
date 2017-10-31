@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "register_empty",
   "nameIsFixed": false,
   "originalObjectID": "F9172D70-F000-4DC8-A779-E3D2E597CF34",

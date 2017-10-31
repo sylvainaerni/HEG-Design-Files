@@ -53,7 +53,7 @@
         "constraints": {
           "automatic": 1,
           "centerVertically": {
-            "constant": -50,
+            "constant": -58,
             "enabled": 1,
             "modelID": "constraint_9857caca-70d8-43dc-9f66-578211884958",
             "model_class": "ADModelConstraint",
